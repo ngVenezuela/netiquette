@@ -1,0 +1,25 @@
+{
+  "name": "netiquette",
+  "version": "0.1.0",
+  "description": "Telegram Bot para Netiqueta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngVenezuela/netiquette.git"
+  },
+  "keywords": [
+    "netiquette"
+  ],
+  "author": "Alexander J. Salas B. <a.salas@ieee.org>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ngVenezuela/netiquette/issues"
+  },
+  "homepage": "https://github.com/ngVenezuela/netiquette#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.14.0"
+  }
+}
