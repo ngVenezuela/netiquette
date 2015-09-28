@@ -1,5 +1,5 @@
 # Network Etiquette (Netiquette)
-Telegram Bot para Netiqueta
+Telegram Bot for Netiquette
 
 "Netiquette" is network etiquette, the do's and don'ts of online communication. Netiquette covers both common courtesy online and the informal "rules of the road" of cyberspace.
 
